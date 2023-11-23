@@ -356,13 +356,7 @@ class LocationPage extends StatelessWidget {
                             Text('Location 2'),
                           ],
                         ),
-                        Text(
-                          '\$50',
-                          style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 18,
-                          ),
-                        ),
+
                       ],
                     ),
                     SizedBox(height: 10),
@@ -415,13 +409,7 @@ class LocationPage extends StatelessWidget {
                             Text('Location 2'),
                           ],
                         ),
-                        Text(
-                          '\$50',
-                          style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            fontSize: 18,
-                          ),
-                        ),
+
                       ],
                     ),
                     SizedBox(height: 10),
